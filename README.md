@@ -15,6 +15,8 @@
 This project is a comprehensive end-to-end testing suite built with [Playwright](https://playwright.dev/python/) and Python. It automates user interactions and validates functionalities of web applications, ensuring reliability and performance.
 
 ---
+Click here to get view Allure Reports
+https://galmatalon.github.io/playwright-python-55/ 
 
 ## 🎯 Project Goals
 
